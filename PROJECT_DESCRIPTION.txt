@@ -1,0 +1,3 @@
+Project description (3–5 sentences)
+
+I created a responsive personal portfolio website using HTML5 and CSS3 to introduce myself and present my education, skills, and academic projects. The website includes Home, About, Skills, Projects, and Contact sections with navigation links that jump to each section. It highlights my Learn Mate student learning platform and Student Attendance Management System, and presents my technical skills in a card layout. I used CSS Grid, Flexbox, hover and focus states, and media queries to make the design usable on desktop and mobile screens. The contact section includes an email link; the website does not use a backend or database.
